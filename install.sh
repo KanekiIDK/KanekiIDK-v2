@@ -17,4 +17,4 @@ npm i colors@1.4.0
 play audindex.mp3
 termimage datakawaii.png
 
-echo "no olvides tomar awita nwn "
+Listo "Ya está joya"
