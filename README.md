@@ -6,7 +6,7 @@
 </p>
 
 ## Características del bot 
-|  ### Funciones  |                                    ### Y/N |
+|  ##Funciones  |                                    ##Y/N |
 | :---------------------------------------------: | :-----------: |
 | Crea stickers|✔️|
 | Bienvenida automática|✔️|
