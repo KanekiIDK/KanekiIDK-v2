@@ -1,10 +1,10 @@
 {
-  "name": "NK-BOT",
+  "name": "KanekiIDK-Bot",
   "version": "5.5.0",
-  "description": "Un bot simple para Whatsapp en español uwu",
-  "main": "nkbot.js",
+  "description": "Un Bot Simp",
+  "main": "kanekiidk.js",
   "scripts": {
-    "start": "node nkbot.js",
+    "start": "node kanekiidk.js",
     "type": "commonjs"
   },
   "directories": {
@@ -59,10 +59,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NeKosmic/NK-BOT.git"
+    "url": "git+https://github.com/MeliodasJAJA/KanekiIDK-v2.git"
   },
   "bugs": {
-    "url": "https://github.com/NeKosmic/NK-BOT/issues"
+    "url": "https://github.com/MeliodasJAJA/KanekiIDK-v2/issues"
   },
-  "homepage": "https://github.com/NeKosmic/NK-BOT#readme"
+  "homepage": "https://github.com/MeliodasJAJA/KanekiIDK-Bot#readme"
 }
