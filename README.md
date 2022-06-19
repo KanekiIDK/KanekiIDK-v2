@@ -8,18 +8,18 @@
 ## Características del bot 
 |  -Funciones-  |                                      -Y/N- |
 | :---------------------------------------------: | :-----------: |
-| Crea stickers|✔️|
-| Bienvenida automática|✔️|
-| Anti-Link|✔️|
-| Anti-Fakes|✔️|
-| Anti-Estranjeros|✔️|
-| Creador de logos|✔️|
-| Juegos|✔️|
-| Modo Publico/Privado|✔️|
-| Modo NSFW|✔️|
-| Descarga de música/videos|✔️|
-| Virus/Traba Simples|✔️|
-| Mas de 100 comandos Funcionales|✓|
+| Crea stickers|🎃|
+| Bienvenida automática|🎃|
+| Anti-Link|🎃|
+| Anti-Fakes|🎃|
+| Anti-Estranjeros|🎃|
+| Creador de logos|🎃|
+| Juegos|🎃|
+| Modo Publico/Privado|🎃|
+| Modo NSFW|🎃|
+| Descarga de música/videos|🎃|
+| Virus/Traba Simples|🎃|
+| Mas de 100 comandos Funcionales|🎃|
 
 ## Instalacion
 (Si no has usado Termux):
