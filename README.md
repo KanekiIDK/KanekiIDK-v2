@@ -1,19 +1,6 @@
 <P align="center">
-<img src="https://files.catbox.moe/vx73hz.gif" width="500" height="500"/> Sexy Quien Lo Lea UwU <img src="https://thumbs.gfycat.com/AdolescentAgileCoqui-size_restricted.gif" width="29px">
- <P align="center">
-<img src="https://giffiles.alphacoders.com/152/15268.gif" width="230" height="230"/>
-</p>
-<br>
+<img src="https://files.catbox.moe/vx73hz.gif" width="500" height="500"/> 
 
-<p align="center">
-<a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-TERMUX--BOT--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/NeKosmic"><img title="Autor" src="https://img.shields.io/badge/Autor-Matt_M-orange?style=for-the-badge&logo=github"></a>
-</p>
- 
-</details>
-<P align="center">
 ⚡Un bot muy simple para whatsapp :D
 
 </p>
