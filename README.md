@@ -55,7 +55,7 @@ Para detener al bot en termux
 2.- Ejecutar el bot en PM2 :
 ```bash 
 
-> pm2 start nkbot.js
+> pm2 start kanekiidk.js
 ```
 3.- Visualizar proceso en PM2 :
 ```bash 
