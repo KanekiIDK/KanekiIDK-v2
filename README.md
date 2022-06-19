@@ -35,7 +35,7 @@
 > apt install wget && pkg install wget
 
 ```
-## Después de tener todo instalado en termux sigen estos:
+## Por último:
 ```bash
 > git clone https://github.com/MeliodasJAJA/KanekiIDK-v2
 > cd KanekiIDK-v2
