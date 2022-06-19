@@ -6,7 +6,7 @@
 </p>
 
 ## Características del bot 
-|  ##Funciones  |                                    ##Y/N |
+|  -Funciones-  |                                      -Y/N- |
 | :---------------------------------------------: | :-----------: |
 | Crea stickers|✔️|
 | Bienvenida automática|✔️|
@@ -22,12 +22,9 @@
 | Mas de 100 comandos Funcionales|✓|
 
 ## Instalacion
-Para nuevos desde cero en termux:
+(Si no has usado Termux):
 ```bash
 > termux-setup-storage
-(Dan permiso a su almacenamiento)
-> termux-change-repo
-(Seleccionan todas las opciones que les aparescan en la primera ventana/En la segunda ventana seleccionan la opcion que contenga la letra 'termux.mentality.rip' )
 > apt update && pkg update
 > apt upgrade && pkg upgrade
 > apt install git && pkg install git
@@ -38,10 +35,10 @@ Para nuevos desde cero en termux:
 > apt install wget && pkg install wget
 
 ```
-## Despues de tener todos los packs instalados en termux solo usen estos comandos para comenzar
+## Después de tener todo instalado en termux sigen estos:
 ```bash
-> git clone https://github.com/NeKosmic/NK-BOT 
-> cd NK-BOT
+> git clone https://github.com/MeliodasJAJA/KanekiIDK-v2
+> cd KanekiIDK-v2
 > bash install.sh
 > npm start
 Para detener al bot en termux
@@ -73,18 +70,5 @@ Para detener al bot en termux
 > pm2 kill
 ```
 
-## Comentarios ó sugerencias :3
-
-```bash
-> Si encuentran algun error me comentan ;)
-```
-
-## Agradecido con el de arriba y a estos cracks :3
-
-* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-</p>
-
-## ⚡ Mi número por si necesitas ayuda nwn
-
-<a href="https://wa.me/51995386439?text=Wenas...+deseo+aprender+instalar+al+bot"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<P align="center">
+<img src="https://www.icegif.com/wp-content/uploads/icegif-1093.gif" width="500" height="376"/> 
