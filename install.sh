@@ -17,4 +17,4 @@ npm i colors@1.4.0
 play audindex.mp3
 termimage datakawaii.png
 
-Listo "Ya está joya"
+echo "Ya está joya"
